@@ -5,7 +5,7 @@ job_title: Director of Technology
 job_description: Kosta is responsible for code quality at Savas, keeping up to date with emerging technologies and ensuring our team follows best practices.
 photo: "assets/img/team/kosta-harlan.jpg"
 card: "assets/img/team/cards/kosta-card.jpg"
-drupal: 209141 
+drupal: kostajh
 github: kostajh
 twitter: kostajh
 website: http://www.kostaharlan.net

@@ -5,7 +5,7 @@ job_title: Founder
 job_description: Chris oversees day-to-day operations from various locales in Southeast Asia.
 photo: "assets/img/team/chris-russo.jpg"
 card: "assets/img/team/cards/chris-card.jpg"
-drupal: 156600
+drupal: illmasterc
 github: illmasterc
 ---
 
